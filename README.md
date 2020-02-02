@@ -1,5 +1,3 @@
-# Calculator
-Simple operations of addition etc.
 <html>
 <head>
   <title>My Calculator</title>
